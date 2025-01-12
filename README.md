@@ -1,5 +1,5 @@
 # Endmembers estimation with hyperspectral images
-Estimation of endmembers using hyperspectral images
+Estimation of endmembers of hyperspectral images
 
 ## Authors:
 - Idriss ABDOULWAHAB  
