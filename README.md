@@ -9,7 +9,7 @@ Estimation of endmembers using hyperspectral images
 This project aims to use the ELM method from B. Luo et al. 2013 to estimate the number of endmembers.
 
 ## Project Structure:
-- **empriical_method.ipynb**: Contains the notebook that compute the ELM method
+- **empirical_method.ipynb**: Contains the notebook that compute the ELM method
 
 
 ## Dataset:
