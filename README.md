@@ -12,8 +12,8 @@ This method will we use had been describe in the paper from B. Luo et al. 2013.
 - **DOI:** [10.1109/LGRS.2012.2189934](https://doi.org/10.1109/LGRS.2012.2189934)
 
 ## Project Structure:
-- **empirical_method.ipynb**: Contains the notebook that compute the ELM method
-- **elm_algorithm.py**: Contains the algorithm to compute endmembers for all dataset with ELM method
+- **empirical_method.ipynb**: Contains the notebook that computes the ELM method
+- **elm_algorithm.py**: Contains the algorithm to compute endmembers for all dataset using the ELM method
 
 
 ### Dataset:
