@@ -10,6 +10,7 @@ This project aims to use the ELM method from B. Luo et al. 2013 to estimate the 
 
 ## Project Structure:
 - **empirical_method.ipynb**: Contains the notebook that compute the ELM method
+- **elm_algorithm.py**: Contains the algorithm to compute endmembers for all dataset with ELM method
 
 
 ## Dataset:
