@@ -64,9 +64,8 @@ for i in range (len(data_path)):
 
     endmembers_index_final = np.unique(np.concatenate((endmembers_index_R, endmembers_index_K)))
 
-    endmembers_correct = list(set(endmembers_index_final) & set(endmembers_index_gt))  # Intersection
+    endmembers_correct = list(set(endmembers_index_final) & set(endmembers_index_gt))
 
-    # Écriture des résultats dans le fichier .txt
     file_path = 'drive/MyDrive/Extensive_dataset/endmembers_no_spatial.txt'
     with open(file_path, 'a') as file:
         file.write(f"Nom de l'appareil : {data_legend[i]}\n")
@@ -80,7 +79,6 @@ for i in range (len(data_path)):
     print(f"Résultats pour {data_legend[i]} sauvegardés dans {file_path}")
 
 
-# Spatial resolution by reshaping
 data_path = ['drive/MyDrive/Extensive_dataset/IMEC_hypespectral_camera/IMEC_dataset.mat',
              'drive/MyDrive/Extensive_dataset/Senops_HSC2/Senops_HSC2_dataset.mat',
              'drive/MyDrive/Extensive_dataset/Specim _AI(RGB)/Specim_JAI_RGB_dataset.mat',
@@ -161,9 +159,8 @@ for i in range (len(data_path)):
 
     endmembers_index_final = np.unique(np.concatenate((endmembers_index_R, endmembers_index_K)))
 
-    endmembers_correct = list(set(endmembers_index_final) & set(endmembers_index_gt))  # Intersection
+    endmembers_correct = list(set(endmembers_index_final) & set(endmembers_index_gt))
 
-    # Écriture des résultats dans le fichier .txt
     file_path = 'drive/MyDrive/Extensive_dataset/endmembers_spatial.txt'
     with open(file_path, 'a') as file:
         file.write(f"Nom de l'appareil : {data_legend[i]}\n")
@@ -253,9 +250,8 @@ for i in range (len(data_path)):
 
     endmembers_index_final = np.unique(np.concatenate((endmembers_index_R, endmembers_index_K)))
 
-    endmembers_correct = list(set(endmembers_index_final) & set(endmembers_index_gt))  # Intersection
+    endmembers_correct = list(set(endmembers_index_final) & set(endmembers_index_gt))
 
-    # Écriture des résultats dans le fichier .txt
     file_path = 'drive/MyDrive/Extensive_dataset/endmembers_spatial_mean.txt'
     with open(file_path, 'a') as file:
         file.write(f"Nom de l'appareil : {data_legend[i]}\n")
