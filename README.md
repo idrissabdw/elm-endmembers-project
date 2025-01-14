@@ -14,6 +14,7 @@ This method will we use had been describe in the paper from B. Luo et al. 2013.
 - **elm_algorithm.py**: Contains the algorithm to compute endmembers for all dataset with ELM method
 
 
-## Dataset:
-- The dataset is from B. Koirala et al., "A Multisensor Hyperspectral Benchmark Dataset For Unmixing of Intimate Mixtures," in IEEE Sensors Journal, doi: 10.1109/JSEN.2023.3343552
-- Repository of the dataset : https://github.com/VisionlabHyperspectral/Multisensor_datasets
+### Dataset:
+- **Source:** B. Koirala et al., "A Multisensor Hyperspectral Benchmark Dataset for Unmixing of Intimate Mixtures," IEEE Sensors Journal.
+- **DOI:** [10.1109/JSEN.2023.3343552](https://doi.org/10.1109/JSEN.2023.3343552)
+- **Repository:** [VisionlabHyperspectral/Multisensor_datasets](https://github.com/VisionlabHyperspectral/Multisensor_datasets)
