@@ -14,6 +14,7 @@ The method used is described in the paper by B. Luo et al. 2013.
 ## Project Structure:
 - **empirical_method.ipynb**: Contains the notebook that computes the ELM method
 - **elm_algorithm.py**: Contains the algorithm to compute endmembers for all dataset using the ELM method
+- **results/** : Folder that contains .txt files with results of ELM method with different sensor dataset.
 
 
 ### Dataset:

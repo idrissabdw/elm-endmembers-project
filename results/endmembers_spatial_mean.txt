@@ -1,0 +1,112 @@
+Nom de l'appareil : IMEC_Image
+Nombre d'endmembers trouvés : 0
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 0
+Liste des bons endmembers trouvés : []
+Liste des endmembers trouvés : []
+
+Nom de l'appareil : Senops_HSC2_image
+Nombre d'endmembers trouvés : 1
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 0
+Liste des bons endmembers trouvés : []
+Liste des endmembers trouvés : [190]
+
+Nom de l'appareil : Specim_JAI_RGB_image
+Nombre d'endmembers trouvés : 0
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 0
+Liste des bons endmembers trouvés : []
+Liste des endmembers trouvés : []
+
+Nom de l'appareil : Specim_AisaFenix_image
+Nombre d'endmembers trouvés : 160
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 4
+Liste des bons endmembers trouvés : [8, 1, 330, 36]
+Liste des endmembers trouvés : [1, 2, 3, 4, 8, 9, 10, 14, 15, 17, 18, 19, 22, 23, 25, 26, 27, 28, 31, 34, 35, 36, 37, 38, 42, 43, 44, 45, 50, 54, 55, 58, 59, 60, 64, 65, 66, 75, 77, 78, 79, 80, 81, 82, 85, 86, 87, 88, 95, 96, 99, 101, 102, 105, 110, 112, 113, 114, 115, 118, 121, 122, 125, 128, 129, 130, 131, 133, 135, 139, 141, 142, 143, 148, 149, 150, 157, 160, 161, 162, 167, 168, 169, 172, 175, 176, 178, 179, 181, 182, 184, 187, 189, 191, 192, 193, 194, 197, 198, 200, 201, 202, 204, 205, 208, 209, 210, 211, 212, 213, 215, 216, 219, 220, 223, 224, 226, 232, 233, 234, 235, 237, 240, 242, 243, 244, 249, 252, 253, 256, 258, 259, 266, 267, 268, 269, 270, 277, 280, 281, 282, 288, 290, 293, 294, 297, 299, 300, 301, 305, 307, 308, 310, 313, 319, 321, 326, 328, 329, 330]
+
+Nom de l'appareil : Specim_AisaOwl_image
+Nombre d'endmembers trouvés : 5
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 0
+Liste des bons endmembers trouvés : []
+Liste des endmembers trouvés : [108, 133, 147, 198, 309]
+
+Nom de l'appareil : Specim_FX50_image
+Nombre d'endmembers trouvés : 1
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 0
+Liste des bons endmembers trouvés : []
+Liste des endmembers trouvés : [28]
+
+Nom de l'appareil : Specim_sCMOS_image
+Nombre d'endmembers trouvés : 1
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 1
+Liste des bons endmembers trouvés : [120]
+Liste des endmembers trouvés : [120]
+
+Nom de l'appareil : Telops_HyperCam_image
+Nombre d'endmembers trouvés : 0
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 0
+Liste des bons endmembers trouvés : []
+Liste des endmembers trouvés : []
+
+Nom de l'appareil : IMEC_Image
+Nombre d'endmembers trouvés : 0
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 0
+Liste des bons endmembers trouvés : []
+Liste des endmembers trouvés : []
+
+Nom de l'appareil : Senops_HSC2_image
+Nombre d'endmembers trouvés : 1
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 0
+Liste des bons endmembers trouvés : []
+Liste des endmembers trouvés : [190]
+
+Nom de l'appareil : Specim_JAI_RGB_image
+Nombre d'endmembers trouvés : 0
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 0
+Liste des bons endmembers trouvés : []
+Liste des endmembers trouvés : []
+
+Nom de l'appareil : Specim_AisaFenix_image
+Nombre d'endmembers trouvés : 160
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 4
+Liste des bons endmembers trouvés : [8, 1, 330, 36]
+Liste des endmembers trouvés : [1, 2, 3, 4, 8, 9, 10, 14, 15, 17, 18, 19, 22, 23, 25, 26, 27, 28, 31, 34, 35, 36, 37, 38, 42, 43, 44, 45, 50, 54, 55, 58, 59, 60, 64, 65, 66, 75, 77, 78, 79, 80, 81, 82, 85, 86, 87, 88, 95, 96, 99, 101, 102, 105, 110, 112, 113, 114, 115, 118, 121, 122, 125, 128, 129, 130, 131, 133, 135, 139, 141, 142, 143, 148, 149, 150, 157, 160, 161, 162, 167, 168, 169, 172, 175, 176, 178, 179, 181, 182, 184, 187, 189, 191, 192, 193, 194, 197, 198, 200, 201, 202, 204, 205, 208, 209, 210, 211, 212, 213, 215, 216, 219, 220, 223, 224, 226, 232, 233, 234, 235, 237, 240, 242, 243, 244, 249, 252, 253, 256, 258, 259, 266, 267, 268, 269, 270, 277, 280, 281, 282, 288, 290, 293, 294, 297, 299, 300, 301, 305, 307, 308, 310, 313, 319, 321, 326, 328, 329, 330]
+
+Nom de l'appareil : Specim_AisaOwl_image
+Nombre d'endmembers trouvés : 5
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 0
+Liste des bons endmembers trouvés : []
+Liste des endmembers trouvés : [108, 133, 147, 198, 309]
+
+Nom de l'appareil : Specim_FX50_image
+Nombre d'endmembers trouvés : 1
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 0
+Liste des bons endmembers trouvés : []
+Liste des endmembers trouvés : [28]
+
+Nom de l'appareil : Specim_sCMOS_image
+Nombre d'endmembers trouvés : 1
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 1
+Liste des bons endmembers trouvés : [120]
+Liste des endmembers trouvés : [120]
+
+Nom de l'appareil : Telops_HyperCam_image
+Nombre d'endmembers trouvés : 0
+Nombre total d'endmembers théoriques : 5
+Nombre de bons endmembers trouvés : 0
+Liste des bons endmembers trouvés : []
+Liste des endmembers trouvés : []
+
