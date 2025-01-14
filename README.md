@@ -6,7 +6,7 @@ Estimation of endmembers of hyperspectral images by using the ELM method.
 - Amrin AKTER 
 
 ## Description:
-This project aims to use the ELM method. Also known as the Eigenvalue Likelihood Maximization, this method is used to estimate endmembers of mixtured samples.
+This mini project aims to use the ELM method. Also known as the Eigenvalue Likelihood Maximization, this method is used to estimate endmembers of mixtured samples.
 The method used is described in the paper by B. Luo et al. 2013.
 - **Source:** B. Luo et al., "Empirical Automatic Estimation of the Number of Endmembers in Hyperspectral Images", IEEE Sensors Journal
 - **DOI:** [10.1109/LGRS.2012.2189934](https://doi.org/10.1109/LGRS.2012.2189934)
